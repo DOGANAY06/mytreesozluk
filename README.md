@@ -1,4 +1,11 @@
-Sunulan örnek sözlük bilgilerini hafızada tekrar yapmadan bir Tree - Trie (düğümlerde karakter tutma şeklinde) JAVA sınıfına yükleyen ve bilginin girildiği kelimeye uygun kelimeler sıralayan bir sınıfın yazılması.
+Sunulan örnek sözlük bilgilerini hafızada tekrar yapmadan bir Tree - Trie (düğümlerde karakter tutma şeklinde) sınıfa yükleyen ve bilginin girildiği kelimeye uygun kelimeler sıralayan bir sınıfın Java programlama dili ile Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak yazılması.
+
+🛠 Kullanılan Teknolojiler
+Java 21 
+
+OOP prensipleri (Encapsulation, Class yapıları)
+
+Scanner ile konsol girişi
 
 Örnek Çalışma Komutu,
 
